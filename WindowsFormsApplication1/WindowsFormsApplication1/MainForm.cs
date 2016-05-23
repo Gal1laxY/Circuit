@@ -51,6 +51,11 @@ namespace WindowsFormsApplication1
             _datatable.Columns.Add(column2);
             dataGridView1.DataSource = _datatable;
         }
+        /// <summary>
+        /// Кнопка введения нового элемкнта.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
             NewComponentForm ff = new NewComponentForm();
