@@ -89,7 +89,11 @@ namespace WindowsFormsApplication1
         {
 
         }
-
+        /// <summary>
+        /// При прожимание RadioButton1 показываеться в какие RadioButton внос данных запрещен.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
