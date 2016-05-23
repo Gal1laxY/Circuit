@@ -127,7 +127,11 @@ namespace WindowsFormsApplication1
                 MessageBox.Show("Файл запущен");
             }
         }
-        
+        /// <summary>
+        /// Кнопка удаления
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button2_Click(object sender, EventArgs e)
         {
            DialogResult result = MessageBox.Show("Удалить строку?","Удалить", MessageBoxButtons.YesNo, 
