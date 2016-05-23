@@ -1,0 +1,32 @@
+E:\учеба\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\учеба\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.dll
+E:\учеба\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.pdb
+E:\учеба\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.dll
+E:\учеба\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.pdb
+C:\Users\514_ysi\Desktop\ttt\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.dll
+C:\Users\514_ysi\Desktop\ttt\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.pdb
+C:\Users\514_ysi\Desktop\ttt\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\514_ysi\Desktop\ttt\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.dll
+C:\Users\514_ysi\Desktop\ttt\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.pdb
+C:\Users\514_ysi\Desktop\учеба\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.dll
+C:\Users\514_ysi\Desktop\учеба\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.pdb
+C:\Users\514_ysi\Desktop\учеба\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.dll
+C:\Users\514_ysi\Desktop\учеба\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.pdb
+G:\учеба\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\учеба\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.dll
+G:\учеба\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.pdb
+G:\учеба\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.dll
+G:\учеба\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.pdb
+D:\учеба\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.dll
+D:\учеба\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.pdb
+D:\учеба\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.dll
+D:\учеба\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.pdb
+C:\Users\514_ysi\Desktop\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.dll
+C:\Users\514_ysi\Desktop\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.pdb
+C:\Users\514_ysi\Desktop\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.dll
+C:\Users\514_ysi\Desktop\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.pdb
+E:\учеба\Новая папка\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.dll
+E:\учеба\Новая папка\СПО\lab1, Бизнес-логика\Console\Model\bin\Debug\Model.pdb
+E:\учеба\Новая папка\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\учеба\Новая папка\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.dll
+E:\учеба\Новая папка\СПО\lab1, Бизнес-логика\Console\Model\obj\Debug\Model.pdb

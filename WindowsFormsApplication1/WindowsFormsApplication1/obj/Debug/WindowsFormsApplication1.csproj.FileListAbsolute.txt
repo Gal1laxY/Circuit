@@ -1,0 +1,75 @@
+E:\учеба\СПО\lab1, Бизнес-логика\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NewComponentForm.resources
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Model.dll
+E:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Model.pdb
+C:\Users\514_ysi\Desktop\ttt\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\514_ysi\Desktop\ttt\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\514_ysi\Desktop\ttt\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\514_ysi\Desktop\ttt\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\514_ysi\Desktop\ttt\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NewComponentForm.resources
+C:\Users\514_ysi\Desktop\ttt\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\514_ysi\Desktop\ttt\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NewComponentForm.resources
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NewComponentForm.resources
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Model.dll
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Model.pdb
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Model.dll
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Model.pdb
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\514_ysi\Desktop\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CurcitControl.resources
+G:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+D:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\учеба\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Model.dll
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Model.pdb
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NewComponentForm.resources
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\514_ysi\Desktop\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\учеба\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\учеба\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\учеба\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
