@@ -127,7 +127,11 @@ namespace WindowsFormsApplication1
                 MessageBox.Show("Файл запущен");
             }
         }
-        
+        /// <summary>
+        /// Кнопка удаления
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button2_Click(object sender, EventArgs e)
         {
            DialogResult result = MessageBox.Show("Удалить строку?","Удалить", MessageBoxButtons.YesNo, 
@@ -159,7 +163,11 @@ namespace WindowsFormsApplication1
                 MessageBox.Show(ex.Message);
             }
         }
-
+        /// <summary>
+        /// Кнопка обновления таблицы и базы данных при внесение частоты.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button3_Click(object sender, EventArgs e)
         {
             _datatable.Rows.Clear();

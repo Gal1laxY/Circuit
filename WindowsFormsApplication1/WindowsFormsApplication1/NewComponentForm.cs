@@ -63,13 +63,21 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// Кнопка внесения данных.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
             DialogResult = DialogResult.OK;
             Close();
         }
-
+        /// <summary>
+        /// Кнопка отмены.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button2_Click(object sender, EventArgs e)
         {
             DialogResult = DialogResult.Cancel;
@@ -81,7 +89,11 @@ namespace WindowsFormsApplication1
         {
 
         }
-
+        /// <summary>
+        /// При прожимание RadioButton1 показываеться в какие RadioButton внос данных запрещен.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
