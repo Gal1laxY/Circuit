@@ -34,11 +34,14 @@
             this.openToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.CreateButton = new System.Windows.Forms.Button();
+            this.RemoveButton = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button3 = new System.Windows.Forms.Button();
+            this.FrequencyTextBox = new System.Windows.Forms.TextBox();
+            this.SetButton = new System.Windows.Forms.Button();
+            this.RandomButton = new System.Windows.Forms.Button();
+            this.SearchButton = new System.Windows.Forms.Button();
+            this.elementSelectionControl1 = new WindowsFormsApplication1.ElementSelectionControl();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -49,7 +52,7 @@
             this.toolStripMenuItem1});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(442, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(934, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -92,61 +95,94 @@
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
-            // button1
+            // CreateButton
             // 
-            this.button1.Location = new System.Drawing.Point(10, 200);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(89, 23);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "Create";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.CreateButton.Location = new System.Drawing.Point(10, 325);
+            this.CreateButton.Name = "CreateButton";
+            this.CreateButton.Size = new System.Drawing.Size(89, 23);
+            this.CreateButton.TabIndex = 2;
+            this.CreateButton.Text = "Create";
+            this.CreateButton.UseVisualStyleBackColor = true;
+            this.CreateButton.Click += new System.EventHandler(this.newelement_Click);
             // 
-            // button2
+            // RemoveButton
             // 
-            this.button2.Location = new System.Drawing.Point(105, 200);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 3;
-            this.button2.Text = "Remove";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.RemoveButton.Location = new System.Drawing.Point(105, 325);
+            this.RemoveButton.Name = "RemoveButton";
+            this.RemoveButton.Size = new System.Drawing.Size(75, 23);
+            this.RemoveButton.TabIndex = 3;
+            this.RemoveButton.Text = "Remove";
+            this.RemoveButton.UseVisualStyleBackColor = true;
+            this.RemoveButton.Click += new System.EventHandler(this.remove_Click);
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AllowUserToAddRows = false;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(10, 27);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(399, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(697, 292);
             this.dataGridView1.TabIndex = 6;
+            this.dataGridView1.SelectionChanged += new System.EventHandler(this.dataGridView1_SelectionChanged);
             // 
-            // textBox1
+            // FrequencyTextBox
             // 
-            this.textBox1.Location = new System.Drawing.Point(218, 204);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 7;
+            this.FrequencyTextBox.Location = new System.Drawing.Point(516, 328);
+            this.FrequencyTextBox.Name = "FrequencyTextBox";
+            this.FrequencyTextBox.Size = new System.Drawing.Size(100, 20);
+            this.FrequencyTextBox.TabIndex = 7;
             // 
-            // button3
+            // SetButton
             // 
-            this.button3.Location = new System.Drawing.Point(334, 201);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 8;
-            this.button3.Text = "Set";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.SetButton.Location = new System.Drawing.Point(632, 325);
+            this.SetButton.Name = "SetButton";
+            this.SetButton.Size = new System.Drawing.Size(75, 23);
+            this.SetButton.TabIndex = 8;
+            this.SetButton.Text = "Set";
+            this.SetButton.UseVisualStyleBackColor = true;
+            this.SetButton.Click += new System.EventHandler(this.Set_Click);
+            // 
+            // RandomButton
+            // 
+            this.RandomButton.Location = new System.Drawing.Point(186, 325);
+            this.RandomButton.Name = "RandomButton";
+            this.RandomButton.Size = new System.Drawing.Size(116, 23);
+            this.RandomButton.TabIndex = 9;
+            this.RandomButton.Text = "Random Element";
+            this.RandomButton.UseVisualStyleBackColor = true;
+            this.RandomButton.Click += new System.EventHandler(this.randomelement_Click);
+            // 
+            // SearchButton
+            // 
+            this.SearchButton.Location = new System.Drawing.Point(320, 325);
+            this.SearchButton.Name = "SearchButton";
+            this.SearchButton.Size = new System.Drawing.Size(75, 23);
+            this.SearchButton.TabIndex = 10;
+            this.SearchButton.Text = "Search ";
+            this.SearchButton.UseVisualStyleBackColor = true;
+            this.SearchButton.Click += new System.EventHandler(this.search_Click);
+            // 
+            // elementSelectionControl1
+            // 
+            this.elementSelectionControl1.Location = new System.Drawing.Point(714, 28);
+            this.elementSelectionControl1.Name = "elementSelectionControl1";
+            this.elementSelectionControl1.SelectionControl = null;
+            this.elementSelectionControl1.Size = new System.Drawing.Size(143, 320);
+            this.elementSelectionControl1.TabIndex = 11;
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(442, 239);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.textBox1);
+            this.ClientSize = new System.Drawing.Size(934, 361);
+            this.Controls.Add(this.elementSelectionControl1);
+            this.Controls.Add(this.SearchButton);
+            this.Controls.Add(this.RandomButton);
+            this.Controls.Add(this.SetButton);
+            this.Controls.Add(this.FrequencyTextBox);
             this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.RemoveButton);
+            this.Controls.Add(this.CreateButton);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MainForm";
@@ -167,11 +203,14 @@
         private System.Windows.Forms.ToolStripMenuItem openToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem saveToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button CreateButton;
+        private System.Windows.Forms.Button RemoveButton;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.TextBox FrequencyTextBox;
+        private System.Windows.Forms.Button SetButton;
+        private System.Windows.Forms.Button RandomButton;
+        private System.Windows.Forms.Button SearchButton;
+        private ElementSelectionControl elementSelectionControl1;
     }
 }
 

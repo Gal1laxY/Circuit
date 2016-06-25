@@ -15,6 +15,9 @@ namespace WindowsFormsApplication1
 {
     public partial class NewComponentForm : Form
     {
+        /// <summary>
+        /// Считывание с TextBox'a
+        /// </summary>
         public  ICircuit Circuit 
         {
             get
@@ -64,39 +67,31 @@ namespace WindowsFormsApplication1
             InitializeComponent();
         }
         /// <summary>
-        /// Кнопка внесения данных.
+        /// Добавление нового элемента
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void button1_Click(object sender, EventArgs e)
+        private void newelement_Click(object sender, EventArgs e)
         {
             DialogResult = DialogResult.OK;
             Close();
         }
         /// <summary>
-        /// Кнопка отмены.
+        /// Отмена добавления нового элемента и возрат к главном окну
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void button2_Click(object sender, EventArgs e)
+        private void cancel_Click(object sender, EventArgs e)
         {
             DialogResult = DialogResult.Cancel;
             Close();
-        }
-
-
-        private void textBox4_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+        }        
         /// <summary>
-        /// При прожимание RadioButton1 показываеться в какие RadioButton внос данных запрещен.
+        /// Видимость radio_batton
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        
-
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        private void ResistorButton1_CheckedChanged(object sender, EventArgs e)
         {
             if (radioButton1.Checked)
             {
@@ -108,8 +103,12 @@ namespace WindowsFormsApplication1
                 groupBox3.Enabled = false;
             }
         }
-
-        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        /// <summary>
+        /// Видимость radio_batton
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void CapacitorButton2_CheckedChanged(object sender, EventArgs e)
         {
             if(radioButton2.Checked)
             { 
@@ -122,8 +121,12 @@ namespace WindowsFormsApplication1
 
         }
         }
-
-        private void radioButton3_CheckedChanged(object sender, EventArgs e)
+        /// <summary>
+        /// Видимость radio_batton
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void InductorButton3_CheckedChanged(object sender, EventArgs e)
         {
             if (radioButton3.Checked)
             {

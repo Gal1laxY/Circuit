@@ -1,0 +1,9 @@
+E:\учеба\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\UnitTests\bin\Debug\UnitTests.dll
+E:\учеба\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\UnitTests\bin\Debug\UnitTests.pdb
+E:\учеба\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\UnitTests\bin\Debug\Model.dll
+E:\учеба\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\UnitTests\bin\Debug\nunit.framework.dll
+E:\учеба\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\UnitTests\bin\Debug\Model.pdb
+E:\учеба\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\UnitTests\bin\Debug\nunit.framework.xml
+E:\учеба\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+E:\учеба\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\UnitTests\obj\Debug\UnitTests.dll
+E:\учеба\Новая папка\СПО\lab2,Пользовательский интерфейс\WindowsFormsApplication1\UnitTests\obj\Debug\UnitTests.pdb
